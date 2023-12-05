@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "[https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/54fb7eef-b1e8-41dc-be97-57e4180b3b24)" width = 100px></p>
+<p align="center" ><img  src = "https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/54fb7eef-b1e8-41dc-be97-57e4180b3b24" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Dinashi</h1>
 <h3 align="center">Third-Year Data Science Undergraduate | Committed to Unraveling Insights from Data and Advancing Analytical Proficiency</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
